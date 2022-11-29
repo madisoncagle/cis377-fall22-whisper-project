@@ -11,3 +11,7 @@ For troubleshooting, see [discussions](https://github.com/openai/whisper/discuss
 [Speech Accent Archive](https://www.kaggle.com/datasets/rtatman/speech-accent-archive)
 
 [DARPA TIMIT Acoustic-Phonetic Continuous Speech](https://www.kaggle.com/datasets/mfekadu/darpa-timit-acousticphonetic-continuous-speech)
+
+[RAVDESS Emotional speech audio](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+
+[RAVDESS Emotional song audio](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-song-audio)
