@@ -5,7 +5,7 @@ To run the experiments in the Jupyter Notebooks, clone/fork this repo and run th
 
 To conduct your own experiments or use Whisper with individual files, follow the instructions in OpenAI's [official repo](https://github.com/openai/whisper#setup).
 
-For troubleshooting, see [discussions](https://github.com/openai/whisper/discussions).
+For troubleshooting or questions, see [discussions](https://github.com/openai/whisper/discussions).
 
 ## Datasets
 [Speech Accent Archive](https://www.kaggle.com/datasets/rtatman/speech-accent-archive)
